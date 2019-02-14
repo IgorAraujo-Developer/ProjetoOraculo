@@ -1,0 +1,12 @@
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\bin\Debug\netcoreapp2.0\RedisOraculo.deps.json
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\bin\Debug\netcoreapp2.0\RedisOraculo.runtimeconfig.json
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\bin\Debug\netcoreapp2.0\RedisOraculo.runtimeconfig.dev.json
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\bin\Debug\netcoreapp2.0\RedisOraculo.dll
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\bin\Debug\netcoreapp2.0\RedisOraculo.pdb
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\obj\Debug\netcoreapp2.0\RedisOraculo.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\obj\Debug\netcoreapp2.0\RedisOraculo.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\obj\Debug\netcoreapp2.0\RedisOraculo.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\obj\Debug\netcoreapp2.0\RedisOraculo.AssemblyInfo.cs
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\obj\Debug\netcoreapp2.0\RedisOraculo.dll
+C:\Users\logonrmlocal\Source\Workspaces\ProjetoOraculo\code\fonts\RedisOraculo\RedisOraculo\obj\Debug\netcoreapp2.0\RedisOraculo.pdb
